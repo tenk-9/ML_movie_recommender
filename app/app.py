@@ -9,7 +9,7 @@ import math
 DIR = os.path.dirname(__file__)
 # おすすめ映画の最大表示数.
 # modelの語彙は9735なので，それ以下
-MAX_SHOW = 50
+MAX_SHOW = 2000
 # 1ページ当たりの表示件数
 TMP_SHOW = 10
 # 表示するページ数
